@@ -1,0 +1,9 @@
+{
+    "name": "sample-http",
+    "version": "0.0.1",
+    "dependencies": {
+      "axios": "^0.21.2",
+      "dialogflow": "^0.6.0"
+    }
+  }
+  
