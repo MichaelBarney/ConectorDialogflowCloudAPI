@@ -17,3 +17,9 @@
 **Step 6-** In the **package.json** tab, copy and paste the code from the package.json file in this repository.
 
 **Step 7** - Set the **Function to Execute** field to "**cloudAPI**"
+
+**Step 8** - Change the variables in the code called:
+
+- **projectId** (the project ID found on your Dialogflow's agent settings page)
+- **whatsAppToken** (your WhatsApp token value, found on the Meta Developer page for the app)
+- **verifyToken** (set by you on the WhatsApp Webhook Configuration)
